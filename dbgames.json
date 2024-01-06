@@ -5,7 +5,7 @@
       "produto": "Jogo 1",
       "descricao": "Descrição do jogo 1",
       "foto": "jogo1.PNG",
-      "preco": 300
+      "preco": 333
     },
     {
       "id": 2,
@@ -27,6 +27,13 @@
       "descricao": "Descrição do Jogo 4",
       "foto": "jogo4.PNG",
       "preco": "150"
+    },
+    {
+      "id": "tYC9as_",
+      "produto": "HILBERT DIGENIO ALMEIDA NUNESs",
+      "descricao": "TEMP",
+      "foto": "jogo4.PNG",
+      "preco": 222
     }
   ]
 }

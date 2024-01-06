@@ -2,11 +2,11 @@ import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
 import { InicioComponent } from './inicio/inicio.component';
 import { LoginComponent } from './login/login.component';
-import { MenuRestritoComponent } from './restrito/menu-restrito/menu-restrito.component';
+import { RestritoComponent } from './restrito/restrito.component';
 
 const routes: Routes = [
   {path:'inicio', component: InicioComponent},
-  {path:'restrito', component: MenuRestritoComponent},
+  {path:'restrito', component: RestritoComponent},
   {path:'login', component: LoginComponent},
   {path:'', redirectTo:'/inicio',pathMatch:'full'}
 ];
